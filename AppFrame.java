@@ -16,7 +16,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Praveen
+ * @author Pratyush
  */
 public class AppFrame extends JFrame implements ActionListener{
     
