@@ -6,7 +6,7 @@ package GUI;
 
 /**
  *
- * @author PILR
+ * @author Pratyush
  */
 public class main {
    public static void main(String[] args){
